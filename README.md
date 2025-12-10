@@ -20,3 +20,7 @@ Skills take away From this Project:
 
 Results
 A functional system for predictions, recommendations, and demand forecasting.
+
+<img width="1876" height="879" alt="image" src="https://github.com/user-attachments/assets/00c8140a-901b-44fb-bf5f-30abcf2a09fd" />
+<img width="1861" height="886" alt="image" src="https://github.com/user-attachments/assets/ab751547-c940-4810-8b68-a04a8fb25650" />
+
